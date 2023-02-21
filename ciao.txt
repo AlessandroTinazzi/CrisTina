@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ciao asda
-=======
-ivanoooo
->>>>>>> Tina
+Okkay
